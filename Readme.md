@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HowToUseBarSkinHelper/Form1.cs) (VB: [Form1.vb](./VB/HowToUseBarSkinHelper/Form1.vb))
+<!-- default file list end -->
 # How to use a Skin Helper to populate a RibbonGalleryBarItem and PopupMenu with items corresponding to the DevExpress skins
 
 
